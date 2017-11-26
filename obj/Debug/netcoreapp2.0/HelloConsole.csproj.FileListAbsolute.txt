@@ -1,0 +1,10 @@
+/Users/serik/Dotnet/HelloConsole/bin/Debug/netcoreapp2.0/HelloConsole.deps.json
+/Users/serik/Dotnet/HelloConsole/bin/Debug/netcoreapp2.0/HelloConsole.runtimeconfig.json
+/Users/serik/Dotnet/HelloConsole/bin/Debug/netcoreapp2.0/HelloConsole.runtimeconfig.dev.json
+/Users/serik/Dotnet/HelloConsole/bin/Debug/netcoreapp2.0/HelloConsole.dll
+/Users/serik/Dotnet/HelloConsole/bin/Debug/netcoreapp2.0/HelloConsole.pdb
+/Users/serik/Dotnet/HelloConsole/obj/Debug/netcoreapp2.0/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/serik/Dotnet/HelloConsole/obj/Debug/netcoreapp2.0/HelloConsole.AssemblyInfoInputs.cache
+/Users/serik/Dotnet/HelloConsole/obj/Debug/netcoreapp2.0/HelloConsole.AssemblyInfo.cs
+/Users/serik/Dotnet/HelloConsole/obj/Debug/netcoreapp2.0/HelloConsole.dll
+/Users/serik/Dotnet/HelloConsole/obj/Debug/netcoreapp2.0/HelloConsole.pdb

@@ -1,0 +1,2 @@
+System.DivideByZeroException: Attempted to divide by zero.
+   at Customer.Customer.Add() in /Users/serik/Dotnet/HelloConsole/Customer.cs:line 10
