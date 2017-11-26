@@ -22,6 +22,9 @@ namespace Customer
                           /(Math.Sqrt(i*arraySizeDouble+arraySizeDouble));
             return elem;
         }
+        static String Test(){
+            return "Test";
+        }
     }
     
     class CaseInsensitiveComparer : IComparer<string>{
